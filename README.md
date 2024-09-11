@@ -8,7 +8,7 @@ Follow these steps to get the project up and running on your local machine:
 
 1. Clone the repository:
    ```
-   git clone https://github.com/avanishgupta07/Task-Internshala.git
+   git clone https://github.com/avanishgupta07/Task.git
    ```
 
 2. Navigate to the project directory:
